@@ -1,0 +1,18 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto cn Gulp y SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "keywords": [
+    "Gulp",
+    "SASS"
+  ],
+  "author": "Hugo Barrera",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.0"
+  }
+}
